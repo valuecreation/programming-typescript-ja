@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "esnext", "webworker"],
+    "module": "commonjs",
+    "outDir": "dist",
+    "strict": true,
+    "target": "es5",
+  },
+  "include": [
+    "src"
+  ]
+}
